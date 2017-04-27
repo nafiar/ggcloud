@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www":{"guestpath":"/var/www","hostpath":"/home/bayu/Documents/kuliah/ggcloud/tugas3/soal1/vagrant-apache2-worker2/src","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/bayu/Documents/kuliah/ggcloud/tugas3/soal1/vagrant-apache2-worker2","disabled":false,"__vagrantfile":true}}}
